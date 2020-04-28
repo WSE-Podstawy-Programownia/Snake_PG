@@ -8,13 +8,8 @@ class MainClass {
     WriteLine(wiadomoscPowitalna);
     ReadLine();
     Clear();
-
-    char[][] mapa = InicjujMape();
-    WypiszMape(mapa);
-  }
-
-  char[][] InicjujMape()
-  {
+  
+    
     char[][] mapa = new char[50][];
     for (int wymiar = 0; wymiar < 50; wymiar++)
     {
@@ -28,17 +23,22 @@ class MainClass {
         if (kolumna == 0 || kolumna == 49 || rzad == 0 || rzad == 49)
         {
           mapa[kolumna][rzad] = '#';
-        }
+        }      
         else {
           mapa[kolumna][rzad] = ' ';
+
+          
         } 
-      }     
+        Write(mapa[kolumna][rzad]);
+      } 
+      Write("\n");
     }
+    
 
-    return mapa;
-  }
-
-  
-    }
+    
   }
 }
+
+  
+  
+  
