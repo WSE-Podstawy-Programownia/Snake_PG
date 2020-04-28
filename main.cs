@@ -34,8 +34,15 @@ class MainClass {
       Write("\n");
     }
     
+    Random punkt = new Random();
 
-    
+      for (int ctr = 1)
+    {
+   Console.Write("{0,6}", rnd.Next(-100, 101));
+   if (ctr % 5 == 0) Console.WriteLine();
+    }
+
+    }
   }
 }
 
