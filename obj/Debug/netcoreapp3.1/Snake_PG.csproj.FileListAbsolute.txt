@@ -1,0 +1,13 @@
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\bin\Debug\netcoreapp3.1\Snake_PG.exe
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\bin\Debug\netcoreapp3.1\Snake_PG.deps.json
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\bin\Debug\netcoreapp3.1\Snake_PG.runtimeconfig.json
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\bin\Debug\netcoreapp3.1\Snake_PG.runtimeconfig.dev.json
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\bin\Debug\netcoreapp3.1\Snake_PG.dll
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\bin\Debug\netcoreapp3.1\Snake_PG.pdb
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\obj\Debug\netcoreapp3.1\Snake_PG.csprojAssemblyReference.cache
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\obj\Debug\netcoreapp3.1\Snake_PG.AssemblyInfoInputs.cache
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\obj\Debug\netcoreapp3.1\Snake_PG.AssemblyInfo.cs
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\obj\Debug\netcoreapp3.1\Snake_PG.csproj.CoreCompileInputs.cache
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\obj\Debug\netcoreapp3.1\Snake_PG.dll
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\obj\Debug\netcoreapp3.1\Snake_PG.pdb
+C:\Users\Liafinelle\Documents\Snek\Snake_PG\obj\Debug\netcoreapp3.1\Snake_PG.genruntimeconfig.cache
